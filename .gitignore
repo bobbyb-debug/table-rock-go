@@ -172,3 +172,20 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Django
+*.pyc
+__pycache__/
+db.sqlite3
+.env
+
+# System
+.DS_Store
+*.log
+
+# IDE
+.vscode/
+.env/
+
+# Google Drive sync (if connected)
+Google Drive/

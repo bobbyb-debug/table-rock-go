@@ -1,0 +1,11 @@
+Category,Details
+App Name,Table Rock Go
+Mission Statement,"To connect boaters, vacationers, and local businesses through an intuitive map and event platform on Table Rock Lake."
+Target Users,"Boat-owning tourists, lakehouse renters, restaurant visitors, event-goers, local businesses"
+Primary Features,"Interactive dock map, launch finder, dockside restaurant listings, event calendar, GPS directions, user reviews, offline mode, emergency contacts"
+Revenue Streams,"Premium listings, sponsored pins, local ads, event promotions, affiliate bookings, user subscriptions, data insights, branded merchandise"
+Initial Region,"Table Rock Lake (MO/AR border) with focus on Branson, Kimberling City, Shell Knob, Cape Fair, Ridgedale"
+Core Partners,"Dockside restaurants, marinas, boat rental companies, lake event organizers, fishing guides, Airbnb/VRBO hosts"
+Marketing Strategy,"Grassroots outreach to businesses, social media + FB boating groups, QR sticker campaigns, pitch to Chamber of Commerce and resorts"
+Expansion Plan,"Scale to Bull Shoals, Lake of the Ozarks, and other major recreational lakes. Create multi-region discovery mode."
+Tools & Tech Stack,"Frontend: React / Tailwind CSS; Backend: Django / PostgreSQL; Hosting: Render or Railway; Collaboration: GitHub, Google Drive, Trello"
